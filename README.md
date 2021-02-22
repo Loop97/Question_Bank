@@ -16,7 +16,7 @@ It's narrowed down that the issue is coming from the JPA dependency of Spring Bo
 A version of Spring Boot with that error has been labeled as the "demo"folder. Foolow the isntallation steps for Spring Boot to view the error.
 
 # Database Schema
-  ![](assests/db_schema.png)
+  ![](assests/db_schema.png) \
   The question content will depend on the selection made in the question type input this will reference to the question type table accordingly.
   A head on method would be to persisted reference every single field in the single, multiple and open_ended table fields accroding to the question type input.
   
